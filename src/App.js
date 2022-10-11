@@ -4,7 +4,7 @@ import "./index.css";
 const App = () => (
   <div className="container">
     <img src={logo} />
-    <h1>Create Your React App - Hero Vired</h1>
+    <p style={{ marginTop: "20px" }}>Create Your React App - Hero Vired</p>
   </div>
 );
 export default App;
