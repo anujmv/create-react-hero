@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_app_hero=self.webpackChunkreact_app_hero||[]).push([[605],{605:(e,r,t)=>{t.r(r),t.d(r,{default:()=>c});var n=t(950),a=t.n(n),o={backgroundColor:"blue",padding:"10px",color:"#fff"};const c=function(){return a().createElement("footer",{style:o},"Figet Spinner")}}}]);
-//# sourceMappingURL=605.1d834d57503570e87934.js.map

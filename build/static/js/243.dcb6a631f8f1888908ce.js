@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_app_hero=self.webpackChunkreact_app_hero||[]).push([[243],{243:(e,a,r)=>{r.r(a),r.d(a,{default:()=>n});var t=r(950),c=r.n(t);const n=function(){return c().createElement("header",{className:"header"},"Figet Awe john")}}}]);
-//# sourceMappingURL=243.dcb6a631f8f1888908ce.js.map
