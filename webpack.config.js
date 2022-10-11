@@ -13,7 +13,7 @@ const BundleAnalyzerPlugin =
   require("webpack-bundle-analyzer").BundleAnalyzerPlugin;
 
 const isDevelopment = process.env.NODE_ENV !== "production";
-console.log(isDevelopment);
+console.log("development", isDevelopment);
 
 const deps = require("./package.json").dependencies;
 module.exports = {
@@ -145,7 +145,8 @@ module.exports = {
       },
     }),
     new HtmlWebPackPlugin({
-      template: "/public/index.html",
+      template: "./public/index.html",
+      favicon: "./public/favicon.ico",
     }),
   ].filter(Boolean),
 };
