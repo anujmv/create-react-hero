@@ -1,6 +1,6 @@
 {
   "name": "create-react-hero",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "bin": "./bin/cli.js",
   "scripts": {
     "build": "cross-env NODE_ENV=production webpack --mode production ",
